@@ -1,0 +1,4 @@
+./logs/*
+.geckodriver*
+.selenium-screenshot*
+.xml*
